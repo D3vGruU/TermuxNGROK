@@ -20,8 +20,14 @@ This a Script installs the NGROK to the Termux and Make NGROK to run flawlessly.
  
  sh TNGROK.sh
  
+ After Statement of CLI INTERFERANCE if it didnt start press ENTER to CONTINUE
+ 
+ AFTER INSTALLATION USE 
+ 
  ./ngrok authtoken (ur id)
  
+ THEN 
+ ./ngrok (ur command)
  For Tunelling.......................
  
  # Disclaimar
